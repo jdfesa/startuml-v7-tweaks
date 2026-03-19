@@ -12,7 +12,7 @@
 
 Este proyecto explora cómo StarUML v7.0.0 implementa su lógica de restricción de características y validación de licencias. Al analizar el paquete `.asar` de la aplicación, esta prueba de concepto demuestra cómo las verificaciones del lado del cliente pueden ser manipuladas localmente modificando la lógica de los archivos JavaScript en el entorno de ejecución.
 
-<img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" alt="Educational PoC Demo" style="width:100%;">
+<img src="./banner.png" alt="Educational PoC Demo" style="width:100%;">
 
 ---
 
